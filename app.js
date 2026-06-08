@@ -9,11 +9,10 @@
 
 /*
 "https://pokeapi.co/api/v2/pokemon/pikachu"
+"https://cataas.com/cat"
+"https://dog.ceo/api/breeds/image/random"
+"https://v2.jokeapi.dev/#joke-endpoint"
 */
 
 // O navegador envia um pedido.
 // A API responde com dados.
-
-/*
-
-*/
